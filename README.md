@@ -33,7 +33,7 @@ SQL 활용]
 DML, DDL, DCL 사용    
     
 개발 환경]    
-DB - Oracle 11g
+DB - Oracle 11g   
 WAS - Apache Tomcat 8.55   
 JAVA - java 1.8    
     

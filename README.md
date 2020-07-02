@@ -1,5 +1,7 @@
 #       YummyMap   
-         <br>
+
+
+
 <br>      
   <br>    
 <b>[Project 기획 의도]</b>    
@@ -37,12 +39,13 @@ SQL - 데이터 조회, 입력, 수정, 삭제, 조인, 인라인뷰 가능
    
    
 [개발환경]
-Project : YummyMap
-Framework : Spring 4.3.25
-Design pattern : Spring MVC model 2
-Java version : 1.8
-WAS : tomcat 8.5
-DBMS : Oracle 11g
-ORM : mybatis 3.4.6
-View : HTML5, CSS3, Javascript, JQuery, Ajax
+Project : YummyMap<br>
+Framework : Spring 4.3.25<br>
+Design pattern : Spring MVC model 2<br>
+Java version : 1.8<br>
+WAS : tomcat 8.5<br>
+DBMS : Oracle 11g<br>
+ORM : mybatis 3.4.6<br>
+View : HTML5, CSS3, Javascript, JQuery, Ajax<br>
 <br><br><br><br>
+   Java Programmer

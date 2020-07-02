@@ -1,7 +1,7 @@
-# JAVA Spring 개발자
-
-
-
+# JAVA Spring 개발자       
+     
+      
+   
 [JAVA 웹 개발 직무 능력]   
 JSP 와 Spring 기반으로 한 팀 프로젝트를 통해 java 웹 개발자의 역량을 높일 수 있었습니다.   
 JSP 프로젝트에서 로그인 회원가입 게시판 기능을 구현하였고   

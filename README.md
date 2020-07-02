@@ -1,7 +1,7 @@
 #       YummyMap   
-         
+         <br>
 <br>      
-      
+  <br>    
 <b>[Project 기획 의도]</b>    
 전국 맛집을 주제별로 모아놓은 맛집 커뮤니티 플랫폼    
 전국 맛집 이미지 검색 및 리뷰 작성 / 보기가 가능하며, 회원들 간의 자유롭게 소통할 수 있는 커뮤니티 게시판을 운영.
@@ -10,10 +10,10 @@
 <b>_프로젝트에서 커뮤니티 게시판 Part_ </b> 
 - 이미지 첨부가 가능한 게시판 기능 구현
 - Ajax 비동기 처리를 통해 댓글 추천 기능 구현
-    
+    <br><br>
    
 <b>_SKill_ </b> 
-         
+    <br><br>     
 JAVA
 - Spring framework 를 이용한 MVC2 방식으로 게시판 구현 가능
     
@@ -45,3 +45,4 @@ WAS : tomcat 8.5
 DBMS : Oracle 11g
 ORM : mybatis 3.4.6
 View : HTML5, CSS3, Javascript, JQuery, Ajax
+<br><br><br><br>

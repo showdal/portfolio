@@ -31,7 +31,7 @@ HTML/CSS<br>
 JQuery<br>
 - 비동기통신 Ajax 활용가능(json, formdata 방식 활용가능)<br>
 - DOM 객체 구조를 이해하고, 활용 가능<br>
-   
+   <br>
 SQL <br>
 - 데이터 조회, 입력, 수정, 삭제, 조인, 인라인뷰 가능<br>
 - 테이블 생성 및 드롭, 제약조건 이용 가능<br>
